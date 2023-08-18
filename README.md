@@ -7,3 +7,13 @@
 # commands react frame work
 - create new react app => { npx create-react-app ( file name ) }
 - run json server => json-server --watch db.json --port 9000
+
+
+
+
+
+
+
+to deploy the react-project
+
+-serve
