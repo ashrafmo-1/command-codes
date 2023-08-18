@@ -17,3 +17,14 @@
 to deploy the react-project
 
 -serve
+
+
+
+if you have deploy project by (surge.sh)
+-this steps to deploying
+
+1- go to this site => https://surge.sh/
+
+this steps py command line
+2-  npm install --global surge
+- surge
