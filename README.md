@@ -28,3 +28,5 @@ if you have deploy project by (surge.sh)
 this steps py command line
 2-  npm install --global surge
 - surge
+
+--------------------- diploey firebase (google) ---------------------
