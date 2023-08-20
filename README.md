@@ -30,3 +30,10 @@ this steps py command line
 - surge
 
 --------------------- diploey firebase (google) ---------------------
+
+
+
+
+
+--------------------- remove file by command line (rmdir /S namedir) ---------------------
+
