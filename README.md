@@ -35,16 +35,6 @@ this steps py command line
 
 
 
---------------------- remove file by command line (rmdir /S namedir) ---------------------
-
-
-
-
-
-
-
-
-
 
 
 --------------------- intal react router dom ---------------------
