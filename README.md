@@ -37,3 +37,31 @@ this steps py command line
 
 --------------------- remove file by command line (rmdir /S namedir) ---------------------
 
+
+
+
+
+
+
+
+
+
+
+--------------------- intal react router dom ---------------------
+1- npm install react-router-dom
+2- go to index.js => add (app) in  ===========> (<BrowserRouter><App /></BrowserRouter>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
